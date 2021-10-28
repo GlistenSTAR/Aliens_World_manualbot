@@ -6,3 +6,4 @@ alcor = "https://wax.alcor.exchange/"
 user_name = 'chrlschwb@gmail.com'
 pass_word = 'igh39d#di'
 tesseract_url = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
+tesseract_url = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
